@@ -1,0 +1,3 @@
+[submodule "jupyter/GHGRP_for_Energy"]
+	path = jupyter/GHGRP_for_Energy
+	url = git@github.com:pennelise/GHGRP_for_Energy.git
